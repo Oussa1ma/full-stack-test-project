@@ -1,0 +1,27 @@
+# Dependencies
+**/node_modules/
+**/dist/
+
+# Environment
+**/.env
+**/.env.*
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+**/logs
+**/*.log
+**/npm-debug.log*
+
+# Angular specific
+**/coverage/
+**/.angular/
+
+# NestJS specific
+**/dist/
+**/build/
+
+# Database
+**/*.sqlite
